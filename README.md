@@ -17,6 +17,7 @@ To generate weather for a location at **longitude `-98.76`** and **latitude `26.
 
 ```bash
 java WeatherGenerator -98.76 26.70 2
+```
 
 ## 📂 Input Files
 
